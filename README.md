@@ -1,4 +1,7 @@
-## 🛡️ Identity and Access Management Lab (Keycloak)
+## 🛡️ Identity and Access Management Lab (Keycloak) 
+⬇️See Screenshots for Steps🤓)
+
+[View Steps & Screenshots](https://github.com/Unitech22Pro/Keycloak-IAMLab/tree/main/screenshots)
 
 This lab simulates an IAM solution using [Keycloak](https://www.keycloak.org/) deployed locally via Docker.
 
